@@ -2,6 +2,17 @@
 
 a machine learning engineer and technical writer.\
 I help developers build vector-based AI solutions.
+
+<div align="center">
+  <p align="center">
+    <a href="https://www.leoniemonigatti.com">leoniemonigatti.com</a> • 
+    <a href="https://www.linkedin.com/in/804250ab/">LinkedIn</a> • 
+    <a href="https://twitter.com/helloiamleonie">X (Twitter)</a> • 
+    <a href="https://www.kaggle.com/iamleonie">Kaggle</a> 
+  </p>
+</div>
+<br/>
+
 <!--
 **iamleonie/iamleonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
