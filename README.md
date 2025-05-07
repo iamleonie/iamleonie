@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Leonie
 
+a machine learning engineer and technical writer.\
+I help developers build vector-based AI solutions.
 <!--
 **iamleonie/iamleonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
